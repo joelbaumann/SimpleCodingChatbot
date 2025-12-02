@@ -1,6 +1,7 @@
 // chatbot's brain
 
 //! var num = 3755
+// hello world
 
 + set #
 - <set num=<star>>
