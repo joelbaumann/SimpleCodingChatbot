@@ -1,6 +1,7 @@
 // chatbot's brain
 
 //! var num = 3755
+// das ist jetzt meine veräanderung
 
 + set #
 - <set num=<star>>
